@@ -1,0 +1,11 @@
+﻿.venv/
+.venv*/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.bak
+app_backup*.py
+db_backup*.py
